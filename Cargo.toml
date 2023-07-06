@@ -1,0 +1,9 @@
+[package]
+name = "vtt-to-text"
+version = "0.1.0"
+edition = "2021"
+authors = ["Andrew Gazelka <andrew.gazelka@gmail.com>"]
+
+[dependencies]
+anyhow = "1.0.71"
+regex = "1.9.0"
